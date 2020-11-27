@@ -6,3 +6,6 @@ This Application is hosted through netlify.
 https://heuristic-hermann-56d76d.netlify.app/
 <br/>
 The above is the link for the application.
+<br/>
+<br/>
+This Application is also hosted through heroku platform https://quiz-app-application.herokuapp.com/
